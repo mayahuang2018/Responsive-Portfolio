@@ -229,8 +229,8 @@ input[type=submit] {
 
   nav {
     float: right;
-    margin-top: 25px;
-    margin-right: 25px;
+    padding-left: 15px;
+    margin-left: 15px;
   }
 
 }
@@ -257,7 +257,7 @@ input[type=submit] {
   nav a {
     display: inline-block;
     margin: 15px ;
-    
+  
   }
 
 
@@ -276,16 +276,13 @@ input[type=submit] {
     float: left;
     width: 100%;
     height: auto;
-    margin-top: 10px ;
     margin-bottom: 10px;
-    margin-right: 25px;
   }
   
   .work {
     position: default;
     float: left;
     width: 100%;
-    margin: 20px 0 25px;
     overflow: auto;
   }
 
